@@ -1,4 +1,4 @@
-### Hi there 👋
+안녕하세요. 웹 공부하는 DAHEE 입니다. 🙌
 
 <!--
 **Dev-hee/Dev-hee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
